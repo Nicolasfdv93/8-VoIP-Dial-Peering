@@ -6,5 +6,4 @@ Concepts Applied
 - IP Addressing
 - DHCP for Data & Voice
 - VoIP Telephony-Service & Dial-Peer
-- Port-Security
 - OSPF
